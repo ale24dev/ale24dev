@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alejandro Díaz</h1>
+<h1 align="center">Hi 👋, I'm Ale Díaz</h1>
 <h3 align="center">I'm a Software Engineer. Open source enthusiast. I love @flutter📱 and @nodejs💻.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ale24dev&label=Profile%20views&color=0e75b6&style=flat" alt="ale24dev" /> </p>
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **HallMed**
 
-- 🌱 I’m currently learning **React.js and**
+- 🌱 I’m currently learning **React.js and Dart Advanced**
 
-- 💬 Ask me about **flutter and nestjs.**
+- 💬 Ask me about **Flutter and Nestjs.**
 
 - 📫 How to reach me **ale.24dev@gmail.com**
 
