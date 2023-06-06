@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ale24dev" alt="ale24dev" /></a> </p>
 
-- 🔭 I’m currently working on **HallMed**
-
 - 🌱 I’m currently learning **React.js and Dart Advanced**
 
 - 💬 Ask me about **Flutter and Nestjs.**
