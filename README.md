@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ale Díaz</h1>
 <h3 align="center">I'm a Software Engineer. Open source enthusiast. I love @flutter📱 and @nodejs💻.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ale24dev&label=Profile%20views&color=0e75b6&style=flat" alt="ale24dev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ale24dev" alt="ale24dev" /></a> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ale24dev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 - 🌱 I’m currently learning **React.js and Dart Advanced**
 
 - 💬 Ask me about **Flutter and Nestjs.**
