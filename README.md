@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Software Engineer. Open source enthusiast. I love @flutter📱 and @nodejs💻.</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ale24dev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-- 🌱 I’m currently learning **React.js and Dart Advanced**
+- 🌱 I’m currently learning **NestJs and Dart Advanced**
 
 - 💬 Ask me about **Flutter and Nestjs.**
 
