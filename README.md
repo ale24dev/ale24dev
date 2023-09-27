@@ -45,7 +45,7 @@
 </a>
 			</div>
 			<div>
-🔗 <a href="https://manarati.app/en">Website</a>
+🔗 <a href="https://hallmedicalsystem.com">Website</a>
 			</div>
 		</td>
 	</tr>
