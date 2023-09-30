@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ale Díaz</h1>
-<h3 align="center">I'm a Software Engineer. Open source enthusiast. I love Flutter📱 and ReactJS💻.</h3>
+<h3 align="center">I'm a Software Engineer. Open source enthusiast. I love Flutter📱 and NodeJS💻.</h3>
 
 - 🌱 I’m currently learning **NestJs and Dart Advanced**
 
