@@ -27,28 +27,54 @@
 		<th>Project</th>	
 		<th>Links</th>
 	</tr>
-	<tr>
-		<td>
-			<h3>HallMed</h3>
-			<p>Free medical application for multiple hospitals and pharmacies in Ecuador. I worked on this app as a Flutter Developer Team Lead at <a href="https://hallmedicalsystem.com">HallMedicalSystem</a></p>
-			<p>🗓 Jan 2023 - Apr 2023 (~4 months)</p>
-		</td>
-		<td>
-			<div>
-				<a href="https://play.google.com/store/apps/details?id=com.hallmedicalsystem.hallmed_app&pcampaignid=web_share">
-  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="HallMed on Google Play" />
-</a>
-			</div>
-			<div>
-<a href="https://apps.apple.com/us/app/hallmed/id6466206253">
-  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="HallMed on iOS App Store" />
-</a>
-			</div>
-			<div>
-🔗 <a href="https://hallmedicalsystem.com">Website</a>
-			</div>
-		</td>
-	</tr>
+	<tr style="background-color: #YOUR_COLOR_CODE;">
+    <td>
+        <h3><img width="412" alt="Screenshot 2024-01-26 at 2 42 12 PM" src="https://github.com/ale24dev/ale24dev/assets/111847126/4f29a729-2566-4add-9e03-e2363cf319e3" alt="HallMed Logo"><br>
+		HallMed</h3>
+        <p>Free medical application for multiple hospitals and pharmacies in Ecuador. I worked on this app as a Flutter Developer Team Lead at <a href="https://hallmedicalsystem.com">HallMedicalSystem</a>.</p>
+        <p>🗓 Jan 2023 - Apr 2023 (~4 months)</p>
+    </td>
+    <td style="text-align: center;">
+        <div>
+            <a href="https://play.google.com/store/apps/details?id=com.hallmedicalsystem.hallmed_app&pcampaignid=web_share">
+                <img width="100px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="HallMed on Google Play" />
+            </a>
+        </div>
+        <div>
+            <a href="https://apps.apple.com/us/app/hallmed/id6466206253">
+                <img width="100px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="HallMed on iOS App Store" />
+            </a>
+        </div>
+        <div>
+            🔗 <a href="https://hallmedicalsystem.com">Website</a>
+        </div>
+    </td>
+</tr>
+<tr style="background-color: #YOUR_COLOR_CODE;">
+    <td>
+        <h3>
+		<img width="411" alt="Screenshot 2024-01-26 at 2 45 31 PM" src="https://github.com/ale24dev/ale24dev/assets/111847126/eb19f2b6-d952-4615-9266-124575cffa97" alt="BNBX Logo"><br>
+		BNB Exchange</h3>
+        <p>I am part of the development team for the BNB Exchange app. This app is designed for Airbnb Hosts looking for viable properties across the US. Our team offers a range of services from property finding to fully setting up properties, making them ready to host and generate income with minimal setup effort.</p>
+        <p>🗓 Sep 2023 - Present</p>
+    </td>
+    <td style="text-align: center;">
+        <div>
+            <a href="https://play.google.com/store/apps/details?id=com.bnbx.app">
+                <img width="100px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="BNB Exchange on Google Play" />
+            </a>
+        </div>
+        <div>
+            <a href="https://apps.apple.com/app/6468963858">
+                <img width="100px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="BNB Exchange on iOS App Store" />
+            </a>
+        </div>
+        <div>
+            🔗 <a href="https://bnbexchange.web.app/">Website</a>
+        </div>
+    </td>
+</tr>
+
 </table>
 
 ## 🛡️ My GitHub Stats
