@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ale Díaz</h1>
 <h3 align="center">I'm a Software Engineer. Open source enthusiast. I love Flutter📱 and NodeJS💻.</h3>
 
-- 🌱 I’m currently learning **NestJs and Dart Advanced**
-
 - 💬 Ask me about **Flutter and Nestjs.**
 
 - 📫 How to reach me **ale.24dev@gmail.com**
